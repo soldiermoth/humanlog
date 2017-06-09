@@ -1,4 +1,4 @@
-package: github.com/aybabtme/humanlog
+package: github.com/soldiermoth/humanlog
 import:
 - package: github.com/aybabtme/rgbterm
 - package: github.com/kr/logfmt

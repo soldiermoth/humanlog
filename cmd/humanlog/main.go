@@ -4,9 +4,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/aybabtme/humanlog"
 	"github.com/aybabtme/rgbterm"
 	"github.com/mattn/go-colorable"
+	"github.com/soldiermoth/humanlog"
 	"github.com/urfave/cli"
 )
 
